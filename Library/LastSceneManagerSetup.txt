@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GamePlay/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
